@@ -12,4 +12,4 @@ Just Get A .Wav Make Sure Its Called Song.wav File and put it in the path off th
 
 # ScreenShots
 
-[MusicPlayerScreenShot](/Screenshots/Screenshot.png)
+![MusicPlayerScreenShot](/Screenshots/Screenshot.png)
