@@ -1,0 +1,11 @@
+C:\Users\Jacobb626YT\source\repos\Music\bin\Release\MusicPlayer.exe.config
+C:\Users\Jacobb626YT\source\repos\Music\bin\Release\MusicPlayer.exe
+C:\Users\Jacobb626YT\source\repos\Music\bin\Release\MusicPlayer.pdb
+C:\Users\Jacobb626YT\source\repos\Music\bin\Release\MaterialSkin.dll
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\Music.Music.resources
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\Music.Properties.Resources.resources
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\Music.csproj.GenerateResource.cache
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\Music.csproj.CoreCompileInputs.cache
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\Music.csproj.CopyComplete
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\MusicPlayer.exe
+C:\Users\Jacobb626YT\source\repos\Music\obj\Release\MusicPlayer.pdb

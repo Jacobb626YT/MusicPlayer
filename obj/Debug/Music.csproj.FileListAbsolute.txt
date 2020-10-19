@@ -1,0 +1,12 @@
+C:\Users\Jacobb626YT\source\repos\Music\bin\Debug\Music.exe.config
+C:\Users\Jacobb626YT\source\repos\Music\bin\Debug\Music.exe
+C:\Users\Jacobb626YT\source\repos\Music\bin\Debug\Music.pdb
+C:\Users\Jacobb626YT\source\repos\Music\bin\Debug\MaterialSkin.dll
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.csproj.CopyComplete
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.exe
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.pdb
+C:\Users\Jacobb626YT\source\repos\Music\obj\Debug\Music.Music.resources
