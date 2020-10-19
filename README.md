@@ -4,7 +4,7 @@ Well I made this in C# Bc I was board so
 
 # Download
 
-[Download Here]()
+[Download Here](https://github.com/Jacobb626YT/MusicPlayer/releases/download/1.0/Release.zip)
 
 # How To Use
 
